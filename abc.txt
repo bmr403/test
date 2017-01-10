@@ -1,2 +1,5 @@
 abcdefg
 !@#$%^&
+1234567
+Added Line 1 to check git rebase command
+commit 1 to ccheck git rebase command
