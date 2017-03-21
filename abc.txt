@@ -2,4 +2,4 @@ abcdefg
 !@#$%^&
 1234567
 9876543210
-Cheking Git Pull
+Cheking Git Pull -along with --rebase
